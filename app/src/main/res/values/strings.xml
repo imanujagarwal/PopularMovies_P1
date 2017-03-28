@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="api_key">Put Your Key here</string>
+
+    <string name="movie_detail">Movie Detail</string>
+
+    <string name="releaseDateTitle">Release Date</string>
+
+    <string name="ratingTitle">Rating</string>
+</resources>
